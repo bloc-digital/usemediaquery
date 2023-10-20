@@ -1,13 +1,18 @@
 {
   "name": "@blocdigital/usemediaquery",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple hook to listen for media query changes.",
   "author": "Bloc Digital <web@bloc.digital>",
   "license": "MIT",
   "keywords": [
     "react",
-    "css modules"
+    "react hook",
+    "responsive",
+    "media queries",
+    "media query",
+    "matchMedia",
+    "breakpoints"
   ],
   "repository": {
     "type": "git",
